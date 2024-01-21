@@ -1,0 +1,4 @@
+1 memory_initialization_radix = 16;
+2 memory_initialization_vector =
+3 24010001
+4 00011100
